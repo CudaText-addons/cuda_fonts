@@ -1,0 +1,10 @@
+[info]
+title=Fonts
+desc=Allows to use portable font files only in CudaText. Fonts are loaded from CudaText data/fonts subfolder.
+type=cudatext-plugin
+subdir=cuda_fonts
+homepage=
+
+[item1]
+section=events
+events=on_start
