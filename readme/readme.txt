@@ -10,5 +10,5 @@ example usage:
 - restart CudaText to check that font is active
 
 
-author: Alexey (CudaText)
+author: Alexey Torgashin (CudaText)
 license: MIT
