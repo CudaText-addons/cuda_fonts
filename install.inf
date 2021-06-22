@@ -1,5 +1,5 @@
 [info]
-title=Fonts
+title=Windows Portable Fonts
 desc=Allows to use portable fonts only in CudaText. Fonts are loaded from CudaText data/fonts folder.
 type=cudatext-plugin
 subdir=cuda_fonts
